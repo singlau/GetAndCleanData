@@ -5,6 +5,8 @@ The data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+Procedure to prepare and run the program run_analysis.R
+
 1. Download and open the zip file.  
 2. Place the following files into the working directory.
 	activity_labels.txt
