@@ -7,7 +7,8 @@ subject	-		30 volunteers within an age bracket of 19-48 years
 ActivityName -		Six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,
 			SITTING, STANDING, LAYING)
 
-tBodyAcc-mean()-X, tBodyAcc-mean()-Y, tBodyAcc-mean()-Z, ..., fBodyBodyGyrojerkMag-std(), fBodyBodyGyrojerkMag-MeanFreq() -
+tBodyAcc-mean()-X, tBodyAcc-mean()-Y, tBodyAcc-mean()-Z, ..., fBodyBodyGyrojerkMag-std(), 
+fBodyBodyGyrojerkMag-MeanFreq() -
 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz.Columns are either the mean of mean or mean of std at each activity and each subject. Total 79 columns.
 
 
